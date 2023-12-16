@@ -19,8 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleksandar-mitic-49523319a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandar-mitic-49523319a/" height="30" width="40" /></a>
-<a href="https://fb.com/mitke93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mitke93" height="30" width="40" /></a>
-<a href="https://instagram.com/domaci.zadatak016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="domaci.zadatak016" height="30" width="40" /></a>
+</a>
 <a href="https://www.youtube.com/c/domacizadatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="domacizadatak" height="30" width="40" /></a>
 </p>
 

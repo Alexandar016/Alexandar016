@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Distributed memory parallelization of CubeLib library using MPI](https://www.scalasca.org/scalasca/software/cube-4.x/download.html)
 
-- 🌱 Currently learning **Development of Operations on Cloud systems**
+- 🌱 Currently learning **GPU (CUDA) programing**
 
 - 👨‍💻 Latest finished project [**UMI-Tool**](https://urban-mining-index.de/en/)
 
-- 💬 Ask me about **Score-P, MPI, VBA**
+- 💬 Ask me about **HPC, MPI, VBA**
 
 - 📫 How to reach me **mitic.aleksandar@yahoo.com**
 

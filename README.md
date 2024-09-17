@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aleksandar-mitic-49523319a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandar-mitic-49523319a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksandar-mitic-hamburg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandar-mitic-hamburg/" height="30" width="40" /></a>
 </a>
 <a href="https://youtube.com/@domacizadatak?si=2d8DSdtRbCuG6A7F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="domacizadatak" height="30" width="40" /></a>
 </p>

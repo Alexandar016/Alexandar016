@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning **Coupled simulations using [YAC](https://dkrz-sw.gitlab-pages.dkrz.de/yac/index.html)**
 
-- 👨‍💻 Latest finished project [**UMI-Tool**](https://urban-mining-index.de/en/),[**MPI CubeLib**](https://juser.fz-juelich.de/record/1024391),[Porting **MESSy** to GPU](https://messy-interface.org/)
+- 👨‍💻 Finished projects [**UMI-Tool**](https://urban-mining-index.de/en/),[**MPI CubeLib**](https://juser.fz-juelich.de/record/1024391),[Porting **MESSy** to GPU](https://messy-interface.org/)
 
 - 💬 Ask me about **HPC, OOP, MATH**
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [YAC as output server for **MESSy**](https://messy-interface.org/)
 
-- 🌱 Currently learning **GPU programing**
+- 🌱 Currently learning **Coupled simulations using [YAC](https://dkrz-sw.gitlab-pages.dkrz.de/yac/index.html)**
 
 - 👨‍💻 Latest finished project [**UMI-Tool**](https://urban-mining-index.de/en/),[**MPI CubeLib**](https://juser.fz-juelich.de/record/1024391),[Porting **MESSy** to GPU](https://messy-interface.org/)
 
